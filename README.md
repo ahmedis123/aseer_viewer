@@ -18,8 +18,6 @@ A simple **Flutter** application that provides a lightweight WebView interface f
 ---
 
 
----
-
 ## Getting Started
 
 ### Requirements
@@ -40,27 +38,27 @@ flutter run.
 
 ---
 
-### About
+## About
 
 This unofficial project was developed to facilitate fast and simple mobile access to the Aseer platform, which documents information about detainees, missing persons, and abductees in Sudan.
 
 ---
 
-### Contribution
+## Contribution
 
 Pull requests are welcome. Feel free to open issues for feature requests or bug reports.
 
 
 ---
 
-### License
+## License
 
 This project is licensed under the MIT License.
 
 
 ---
 
-### Notes
+## Notes
 
 This app is not officially affiliated with the Aseer platform.
 
