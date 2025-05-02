@@ -2,7 +2,7 @@
 
 # Aseer WebView App
 
-A simple Flutter application that provides a lightweight WebView interface for the Aseer humanitarian platform.
+A simple Flutter application that provides a lightweight WebView interface for the [Aseer](https://aseer.net/) humanitarian platform.
 
 > Built with flutter_inappwebview: ^5.6.0+2
 
